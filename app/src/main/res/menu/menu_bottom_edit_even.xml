@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/mn_left"
+        android:icon="@drawable/ic_chevron_left"
+        app:showAsAction="always"
+        android:title="@string/previous"></item>
+    <item android:id="@+id/mn_share"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="always"
+        android:title="@string/share"></item>
+    <item android:id="@+id/mn_delete"
+        android:icon="@drawable/ic_delete"
+        app:showAsAction="always"
+        android:title="@string/delete"></item>
+    <item android:id="@+id/mn_right"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_chevron_right"
+        android:title="@string/right"></item>
+</menu>

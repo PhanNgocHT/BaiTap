@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mn_night"
+        android:title="@string/time_night"></item>
+    <item android:id="@+id/mn_thirteen"
+        android:title="@string/time_thirteen"></item>
+    <item android:id="@+id/mn_fifteen"
+        android:title="@string/time_fifteen"></item>
+    <item android:id="@+id/mn_twenty"
+        android:title="@string/time_twenty"></item>
+    <item android:id="@+id/mn_other_time"
+        android:title="@string/other"></item>
+
+</menu>

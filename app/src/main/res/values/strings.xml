@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="add">Thêm sự kiện</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="next">Next</string>
+    <string name="other">Other...</string>
+    <string name="time_night">09:00</string>
+    <string name="time_thirteen">13:00</string>
+    <string name="time_fifteen">17:00</string>
+    <string name="time_twenty">20:00</string>
+    <string name="save">Save</string>
+    <string name="set_background">Background</string>
+    <string name="camera">Camera</string>
+    <string name="new_note">New Note</string>
+    <string name="notice">No Notes</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="pick_image_intent_text">Insert Picture</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="choose_color">Choose Color</string>
+    <string name="alarm">Alarm</string>
+    <string name="untitle">Untitle</string>
+    <string name="previous">Previous</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="right">Right</string>
+    <string name="send_to">Share with</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="choose_time">Choose Time</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="message">Are you sure you want to delete this?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="notification">Note notification</string>
+</resources>
